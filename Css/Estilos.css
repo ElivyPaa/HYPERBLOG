@@ -25,8 +25,8 @@ body
 }
 #container
 {
-    width: 700px;
-    padding: 1em;
+    width: 70%;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -34,4 +34,8 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
